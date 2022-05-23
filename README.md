@@ -7,15 +7,15 @@
 
 <p align="left">
   <a href="https://github.com/KengoMatsuo0529">
-    <img src="https://komarev.com/ghpvc/?username=yutkat" alt="yutkat" />
+    <img src="https://komarev.com/ghpvc/?username=KengoMatsuo0529" alt="KengoMatsuo0529" />
   </a>
   <a href="https://github.com/KengoMatsuo0529">
-    <img height="20" src="https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/KengoMatsuo0529?label=follow&logo=github&style=flat" />
   </a>
   <a href="http://qiita.com/matsuken0135">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/posts.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/matsuken0135/posts.svg" />
   </a>
   <//qiita.com/yutkat">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/contributions.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/matsuken0135/contributions.svg" />
   </a>
 </p>
